@@ -7,7 +7,7 @@ DicePal is a Java program that provides various functionalities for dice games a
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 4.5/5/10](#Rating)
+- [Rating: 5/10](#Rating)
 
 # About
 
